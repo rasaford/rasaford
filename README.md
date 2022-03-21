@@ -2,10 +2,15 @@
 
 
 Currently doing my Master’s degree in Robotics at ETHZ where I’m focussing on robot navigation and planning for autonomous systems.
-In the past, I’ve also worked on motion planning for autonomous vehicles at I6 @ TUM and did my Bachelor’s thesis on [scenario generation for autonomous driving](https://github.com/rasaford/scenario-generation). Additionally, I’ve tutored students at both TUM and HdM. If you’re interested to learn more, drop me message 😉.
+In the past, I’ve also worked on motion planning for autonomous vehicles at I6 @ TUM and did my Bachelor’s thesis on [scenario generation for autonomous driving](https://github.com/rasaford/scenario-generation). Additionally, I’ve [tutored students at both TUM and HdM](https://github.com/rasaford/grnvs-repetitorium-2020). If you’re interested to learn more, drop me message 😉.
 
-### 🚀 Fun Stuff
+### 🚀 Fun Stuff I do
 
+- Real-time mapping and planning for [ANYmal](https://www.anybotics.com/)
+- Visual (Innertial) Odometry on the [KITTI](http://www.cvlibs.net/datasets/kitti/) dataset
+- VR training for tele-operating for [Roboy](https://roboy.org), [Roboy/TeleportVR](https://github.com/Roboy/TeleportVR).
+- Traffic scenario generation for Autonomous Vehicles, [rasaford/scenario-generation](https://github.com/rasaford/scenario-generation)
+- Teaching computer networks, [rasaford/grnvs-repetitorium-2020](https://github.com/rasaford/grnvs-repetitorium-2020)
 
 ### 📖 Education
 
